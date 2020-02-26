@@ -1,5 +1,5 @@
 # Sentiment-Analysis-using-NLTK
-Sentiment Analysis 
+
 NLTK is one of the most popular Natural Language Processing Libraries for Python.
 
 Preprocessing for the projects involves various steps such as tokenizing, tagging , creating featuresets , creating training dataset from available twitter_samples corpus.
